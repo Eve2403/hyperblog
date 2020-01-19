@@ -1,2 +1,3 @@
 esta es la historia de fredy
-lorem  sigue su historia despues del primer comit
+lorem  sigue su historia despues del segundo comit
+agregando otro parrafo
